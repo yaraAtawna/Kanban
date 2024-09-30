@@ -1,11 +1,6 @@
 # Kanban
-Instructions: 
-* Replace "ID1_ID2_ID3" with the correct ID numbers
-* Replace the "00" number at the end with your group's number
-
-
-## Group members
-214234106-214073785-213967698
-
-## Group number (from Moodle)
-M
+Kanban is a project management methodology that allows for organizing and prioritizing
+projects and their tasks, using boards, lists, and cards. With the right Kanban board software,
+managers can focus on managing and prioritizing the team’s tasks, keep the team in the loop,
+and control a steady workflow. This tool supports agile development and helps visualize and
+manage the workflow.
