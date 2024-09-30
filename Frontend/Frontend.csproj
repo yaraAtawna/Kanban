@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="View\3dff3021be5b6f33908da5278bb14f9a.jpg" />
+    <None Remove="View\White Marble Wallpaper Aesthetic.jpeg" />
+    <None Remove="View\הורדה.jpeg" />
+    <None Remove="View\צילום מסך 2024-07-13 184347.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Backend\Backend.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="View\3dff3021be5b6f33908da5278bb14f9a.jpg" />
+    <Resource Include="View\הורדה.jpeg" />
+  </ItemGroup>
+
+</Project>
